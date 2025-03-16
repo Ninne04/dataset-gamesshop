@@ -11,7 +11,9 @@
 
 - [ ] Quais são os produtos mais populares em cada país
 
-      ![image](https://github.com/user-attachments/assets/ba4c20ff-1389-4e4f-8aff-fb05c5c02acb)
+![image](https://github.com/user-attachments/assets/51a0c73e-25ca-4abd-8255-aa823b40464b)
+
+
 
 - [ ] Como otimizar o processo de transporte e logística até o momento da venda
       ![image](https://github.com/user-attachments/assets/d0cf378b-43a2-47e6-9e8b-c8cec069ba69)
